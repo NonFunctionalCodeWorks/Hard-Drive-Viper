@@ -1,15 +1,15 @@
 //============ Hard Drive Viper ============\\
-//											\\
-//				Version 1.0					\\
-//											\\
+//					    \\
+//		Version 1.0		    \\
+//					    \\
 //==========================================\\
 
 
 
 //=============== ERROR CODES ==============\\
-//			1 = Error scanf drive			\\
-//			2 = Error scanf driveart		\\
-//			3 = Filesize					\\
+//	    1 = Error scanf drive	    \\
+//	    2 = Error scanf driveart        \\
+//	    3 = Filesize		    \\
 //==========================================\\
 
 
