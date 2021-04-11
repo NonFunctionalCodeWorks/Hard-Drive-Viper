@@ -230,7 +230,8 @@ int main()
 	{
 		std::cout << "ID: " << id << std::endl;
 
-
+		sprintf(charID, "%d", id);
+		
 		strcat(pathtemp, drive);
 		strcat(pathtemp, pathfix);
 		strcat(pathtemp, charID);
